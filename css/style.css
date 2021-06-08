@@ -31,6 +31,7 @@ body {
 }
 .container {
   max-width: 970px;
+  padding: 0 30px;
 }
 .header {
   background-color: #5b6169;
@@ -221,7 +222,7 @@ body {
   border-radius: 0;
 }
 .about__map{
-  margin-bottom: 42px;
+  margin-bottom: 48px;
 }
 .textarea-msg {
   position: relative;
